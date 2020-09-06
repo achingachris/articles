@@ -1,5 +1,7 @@
 # Git and GitHub: Install & Configure
 
+> github, git, beginners
+
 I am a big fan of git and GitHub, but this didn’t come easier. I had to google articles for installation and configuring git and GitHub on my laptop. So after getting it all right, I decided to write about it. I probably will refer to this article when installing git again. LOL
 
 ## INSTALLATION
