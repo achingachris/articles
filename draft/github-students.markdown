@@ -19,3 +19,17 @@ In the mean time:
 
 ## GitHub Student Developer Pack Offers
 
+### Categories
+
+- [Cloud](#cloud)
+- [Design](#design)
+- [Developer Tools](#developer-tools)
+- [Domains](#domains)
+- [Game Development](#game-development)
+- [Infrastructure & API](#infrastructure-and-api)
+- [Internet of Things](#internet-of-thing)
+- [Learn](#learn)
+- [Marketing](#marketing)
+- [Mobile](#mobile)
+- [Productivity](#productivity)
+- [Security & Analytics](#security-and-analytics)
