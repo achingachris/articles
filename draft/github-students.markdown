@@ -27,9 +27,33 @@ In the mean time:
 - [Domains](#domains)
 - [Game Development](#game-development)
 - [Infrastructure & API](#infrastructure-and-api)
-- [Internet of Things](#internet-of-thing)
+- [Internet of Things](#internet-of-things)
 - [Learn](#learn)
 - [Marketing](#marketing)
 - [Mobile](#mobile)
 - [Productivity](#productivity)
 - [Security & Analytics](#security-and-analytics)
+
+## Cloud
+
+## Design
+
+## Developer Tools
+
+## Domains
+
+## Game Development
+
+## Infrastructure And API
+
+## Internet Of Things
+
+## Learn
+
+## Marketing
+
+## Mobile
+
+## Productivity
+
+## Security And Analytics
