@@ -16,6 +16,7 @@ The application is simple: (You must have a GitHub account) Using the simple ste
 4. You'll be directed to a simple application page, fill the details then wait up for the approval.
 
 In the mean time:
+I won't list all the tools available because they too many, I'll list the common and most used tools, be sure to create your account to be able to view them and all and enjoy the services while it lasts.
 
 ## GitHub Student Developer Pack Offers
 
@@ -59,9 +60,7 @@ In the mean time:
 | canva | With Canva, anyone can create professional looking graphics and designs. Featuring thousands of templates and an easy to use editor. |
 | Bootstrap Studio | Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework. |
 | iconscout | Iconscout is design resources marketplace to get high quality icons, illustrations and stock images. |
-| Polypane | A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time. |
 | Typeform | Interactive forms, surveys & quizzes to engage and grow your audience |
-| Icons8 | Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. |
 | Kodika.io | Build iOS applications with drag & drop. |
 | XOJO | A cross-platform development tool for making native apps for the Desktop. |
 | Neve | Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. |
@@ -71,8 +70,39 @@ In the mean time:
 </div>
 
 ## Developer Tools
+>Tools and Services to help you create your product, including text editors and more
+
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| GitHub | Powerful collaboration, code review, and code management |
+| Jetbrains | Professional desktop IDEs: IntelliJ IDEA, PyCharm, and more. |
+| GitKraken | GitKraken Pro Suite: cross-platform Git GUI, Kanban Boards for issue/task tracking, and Timelines for project planning. |
+| termius | SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. |
+| repl.it | An online IDE that lets you instantly code in over fifty languages. Start learning, building, collaborating and hosting all in one place. |
+| Working Copy | Powerful Git client for iPhone & iPad. |
+| Travis CI | Continuous integration platform for open source and private projects |
+| BrowserStack | Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices. |
+| Codecov | Codecov makes it easy to implement code coverage to develop healthier code |
+| Better Code Hub | Codecov makes it easy to implement code coverage to develop healthier code |
+| SQL gate | Simple but powerful IDE for multiple SQL databases. |
+| Weglot | Make any website multilingual and manage your translations through a single platform. |
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Domains
+>Getting domain names for your projects
+
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| name.com | Domain names, web hosting, and websites. Unicorns and rainbows come standard with our customer support. |
+| Namecheap | Affordable registration, hosting, and domain management |
+| .tech deomains | A powerful domain extension to convey that you belong to the technology industry. |
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Game Development
 
