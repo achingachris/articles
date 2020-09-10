@@ -35,6 +35,21 @@ In the mean time:
 - [Security & Analytics](#security-and-analytics)
 
 ## Cloud
+>Services from cloud service providers with free credits for GitHub Students
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| aws educate | Access to the AWS cloud, free training, and collaboration resources |
+| Digital Ocean | Simple cloud hosting, built for developers |
+| Microsoft Azure | Access to Microsoft Azure cloud services and learning resources – no credit card required |
+| Heroku | A flexible, easy-to-use platform to deploy, run, and manage your apps. |
+| Education Host | Leverage our Web Hosting platform to host assignment & project work. |
+| netwise | Turnkey data centre services for the hosting of critical IT infrastructure systems. |
+
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Design
 
