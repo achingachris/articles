@@ -37,7 +37,7 @@ In the mean time:
 ## Cloud
 >Services from cloud service providers with free credits for GitHub Students
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | aws educate | Access to the AWS cloud, free training, and collaboration resources |
 | Digital Ocean | Simple cloud hosting, built for developers |
@@ -52,6 +52,23 @@ In the mean time:
 </div>
 
 ## Design
+>Design tools for User Interface and Design, and User Experience
+
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| canva | With Canva, anyone can create professional looking graphics and designs. Featuring thousands of templates and an easy to use editor. |
+| Bootstrap Studio | Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework. |
+| iconscout | Iconscout is design resources marketplace to get high quality icons, illustrations and stock images. |
+| Polypane | A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time. |
+| Typeform | Interactive forms, surveys & quizzes to engage and grow your audience |
+| Icons8 | Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. |
+| Kodika.io | Build iOS applications with drag & drop. |
+| XOJO | A cross-platform development tool for making native apps for the Desktop. |
+| Neve | Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. |
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Developer Tools
 
