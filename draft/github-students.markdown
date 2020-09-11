@@ -189,10 +189,14 @@ I won't list all the tools available because they too many, I'll list the common
 </div>
 
 ## Productivity
->
+>Enhance your productivity
 
 | Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| PromoDone | With PomoDone, hack and track your time and boost your productivity by applying Pomodoro technique to your workflow -- eliminate distraction, sharpen focus and prevent burnout. |
+| HazeOver | Get focused while working on your projects or studying with HazeOver for Mac. |
+| Use Together | Remote pair programming and team collaboration tool. |
+| Crowdin | Crowdin is a cloud-based solution that streamlines localization management. |
 
 <div align="right">
     <b><a href="#categories">↥ Back To Top</a></b>
