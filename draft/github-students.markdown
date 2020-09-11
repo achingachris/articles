@@ -203,10 +203,13 @@ I won't list all the tools available because they too many, I'll list the common
 </div>
 
 ## Security And Analytics
->
+>Secure your projects and analyse data tools
 
 | Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Datadog | Cloud-based infrastructure monitoring. |
+| blackfire.io | Code performance measurement tool. Find & fix bottlenecks. |
+| HoneyBadger.io | The web developer's secret weapon: exception, uptime, and cron monitoring that's so awesome, you'll wish your site had more errors. |
 
 <div align="right">
     <b><a href="#categories">↥ Back To Top</a></b>
