@@ -147,8 +147,33 @@ I won't list all the tools available because they too many, I'll list the common
 </div>
 
 ## Learn
+>Platform to learn and engage in bootcamps and tutorials
+
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Frontend masters | Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. |
+| Datacamp | DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists. |
+| GitHub Campus Experts | GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub. |
+| Interview cake | Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more. |
+| Go rails | Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. |
+
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Marketing
+>Marketing tools for your product solution
+
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| appfigures | App Store analytics, optimization, and intelligence. |
+| Customerly | Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS. |
+| Jaamly | Helping developers, designers, and startups to launch their apps on the App Store. |
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Mobile
 
