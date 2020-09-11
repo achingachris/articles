@@ -180,6 +180,9 @@ I won't list all the tools available because they too many, I'll list the common
 
 | Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Sofy | SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale. |
+| termius | SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. |
+| kodika.io | Build iOS applications with drag & drop. |
 
 <div align="right">
     <b><a href="#categories">↥ Back To Top</a></b>
