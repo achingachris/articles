@@ -106,6 +106,7 @@ I won't list all the tools available because they too many, I'll list the common
 
 ## Game Development
 >Tools that provide a platform to develop games
+
 | Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Unity | Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games. |
@@ -116,10 +117,18 @@ I won't list all the tools available because they too many, I'll list the common
 
 ## Infrastructure And API
 >Database tools and API integration tools
+
 | Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Mongo db | A general purpose, document-based, distributed database built for modern application developers and for the cloud era |
 | Arduino education | Empower scientists and artists of the future with creative STEM programs. |
+| mail gun | Powerful APIs that enable you to send, receive and track email effortlessly. |
+| stripe | Web and mobile payments, built for developers |
+| carto | An open and powerful platform for spatial data analysis, visualization, and application creation. |
+| Crypto lens | License and sell your software securely. |
+| Block chair | Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies. |
+| Push bots | The easiest way to engage your mobile & web app users via push notifications. |
+
 
 <div align="right">
     <b><a href="#categories">↥ Back To Top</a></b>
