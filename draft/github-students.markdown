@@ -135,6 +135,16 @@ I won't list all the tools available because they too many, I'll list the common
 </div>
 
 ## Internet Of Things
+>The interconnection via the Internet of computing devices embedded in everyday objects, enabling them to send and receive data.
+
+| Tool&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| adafruit | Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA. |
+| arduino | Empower scientists and artists of the future with creative STEM programs. |
+
+<div align="right">
+    <b><a href="#categories">↥ Back To Top</a></b>
+</div>
 
 ## Learn
 
