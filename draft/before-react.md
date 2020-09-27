@@ -1,9 +1,19 @@
 # Before React
 
+React is a great tool for creating user interface. You should have known that React is a JavaScript Library, so it would be a wise idea to have some knowledge on JavaScript before diving into React.
+
+In this article, I'll highlight the essentials and most important things to learn and provide a link to the resources as we gear up to creating your first React application.
+
 ### In This Article
 
-- What Is React
-- Laying The foundation
+- [Before React](#before-react)
+    - [In This Article](#in-this-article)
+  - [What is React](#what-is-react)
+  - [Laying The Foundation](#laying-the-foundation)
+    - [JavaScript](#javascript)
+      - [Arrow Functions](#arrow-functions)
+      - [Classes](#classes)
+      - [ES6 Features](#es6-features)
 
 ## What is React
 
@@ -11,25 +21,25 @@ React is an open-source JavaScript library for building user interfaces or UI co
 
 ## Laying The Foundation
 
-Since React is a JavaScript library, it is essential to understand the basic and important features of JavaScript. Not everything in JavaScript, just the essentials:
+  - [JavaScript](#javascript)
+  - [Arrow Functions](#arrow-functions)
+  - [Classes](#classes)
+  - [ES6 Features](#es6-features)
 
-1. JavaScript
-2. Arrow Functions
-3. Classes 
-4. ES6 Features
+Since React is a JavaScript library, it is essential to understand the basic and important features of JavaScript. Not everything in JavaScript, just the essentials:
 
 ### JavaScript
 
 If you have been into web development for sometime now, you've probably heard of or seen JavaScript somewhere.
->Well, JavaScript is a programming language used in client side scripting and also in the backend
 
-Since React is a JavaScript library, it's a good idea to go through the basics of JavaScript before diving into React.
+> Well, JavaScript is a programming language used in client side scripting and also in the backend - Just a heads up
+
 
 There are plenty of free and paid courses and tutorials for JavaScript. To see the list, visit the link below: https://github.com/ChrisAchinga/JavaScript101
 
-### Arrow Functions
+#### Arrow Functions
 
-Arrow functions are an alternative to the traditional function expressions.
+Arrow functions are an alternative to the traditional function expressions. They utilize a new token, => that looks like arrow hence the name.
 
 ```javascript
 function() {
@@ -41,17 +51,16 @@ An Arrow function would look like:
 
 ```javascript
 () => {
-    //code block
-}
+  //code block
+};
 ```
 
 To learn more on Arrow functions; https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
-### Classes
+#### Classes
 
 JavaScript classes are more like special function
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
-### ES6 Features
-
+#### ES6 Features
