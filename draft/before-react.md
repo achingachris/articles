@@ -37,6 +37,10 @@ If you have been into web development for sometime now, you've probably heard of
 
 There are plenty of free and paid courses and tutorials for JavaScript. To see the list, visit the link below: https://github.com/ChrisAchinga/JavaScript101
 
+Other curated resources are:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://javascript30.com/
+
 #### Arrow Functions
 
 Arrow functions are an alternative to the traditional function expressions. They utilize a new token, => that looks like arrow hence the name.
@@ -64,3 +68,15 @@ JavaScript classes are more like special function
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 #### ES6 Features
+
+React uses latest JavaAcript es6 features. So it's a good idea to go through them.
+
+Below is a link to the resources:
+
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla
+
+https://catalins.tech/javascript-es2020-the-features-you-should-know
+
+Once your are done going through the basics, you'll be more than ready to learn and use React in your next project.
+
+Checkout the next article in my React Series.
