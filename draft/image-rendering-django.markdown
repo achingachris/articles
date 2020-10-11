@@ -1,1 +1,0 @@
-# Rendering Images on Django
