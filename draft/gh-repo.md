@@ -1,5 +1,7 @@
 # The GitHub CLI: gh repo
 
+![image](../static-files/ghrepoweb.png)
+
 With this GitHub CLI command, you can create, clone, view and fork a github repository.
 
 ```
@@ -18,6 +20,8 @@ This creates a new repository on your GitHub
 First you initialize git in your project folder, simply by:
 
 `git init`
+
+![gh](../static-files/gh-repo-create.png)
 
 After that, you can now start the process, open the folder on your terminal or cmd and type in the command:
 
