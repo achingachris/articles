@@ -59,3 +59,9 @@ Syntax:
 `gh repo clone {github username}/{repository}
 
 [Learn More on `gh repo clone`](https://cli.github.com/manual/gh_repo_clone)
+
+### Conclusion
+
+GitHub CLI is a very useful tool that saves time and gets your work done just straight from the terminal/cmd
+
+To learn more on `gh repo clone` command, and all available commands visit the manual page [https://cli.github.com/manual](https://cli.github.com/manual)
