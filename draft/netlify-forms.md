@@ -97,3 +97,52 @@ To use netlify forms, your static site must be hosted on Netlify. I'll take you 
 
    >web preview
    ![step1](../static-files/forms-6.png)
+
+4. #### Configuring Netlify Forms
+   To do that, you simply add an attribute to the openning `<form>` tag.
+   There are two ways of doing it:
+
+   ```html
+   <form name="contact" netlify>
+   ```
+
+   OR
+
+   ```html
+   <form method="post" name="contact" data-netlify="true">
+   ```
+
+   Either way, the setup will work, I will use the first one, add it to your form.
+
+   After that, push the updates to github and refresh the site deployed from Netlfiy.
+
+   Your updated form should be:
+
+   ```html
+           <form name="contact" data-netlify="true">
+            <div class="mb-3">
+              <label for="email" class="form-label">Email address</label>
+              <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
+              <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+            <div class="mb-3">
+              <label for="name" class="form-label">Name</label>
+              <input type="text" class="form-control" id="name">
+            </div>
+            <div class="mb-3 form-check">
+              <input type="checkbox" class="form-check-input" id="checked">
+              <label class="form-check-label" for="checked">Send Me Updates</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+   ```
+
+  Now go to the site and fill the form, after submitting the form, you get a response page:
+
+  ![form-response](../static-files/form-response.png)
+
+  Head over to the netlify admin site under forms:
+
+  ![form-view](../static-files/form-view.png)
+
+  You'll see the form name.
