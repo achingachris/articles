@@ -1,6 +1,6 @@
 # Form Handling With Netlify Forms
 
->No backend Needed!
+> No backend Needed!
 
 ![netlify-forms](../static-files/form1.png)
 
@@ -19,33 +19,40 @@ To use netlify forms, your static site must be hosted on Netlify. I'll take you 
 ## STEPS: Netlify Forms
 
 1. #### Create Your Form.
-   
+
    This just a simple HTML form. To get started. Create a new working directory/folder and give it a name, "netlify-forms".
 
    Open the folder using a text editor of your choice, I prefer using Visual Studio Code.
-   
-   Create a new html file, *index.html* and create a simple form in it, or paste the code below, in between the `<body>` tags:
+
+   Create a new html file, _index.html_ and create a simple form in it, or paste the code below, in between the `<body>` tags:
 
    ```html
-         <section class="container mt-5">
-          <h1 class="text-center">Netlify Forms</h1>
-        <form>
-            <div class="mb-3">
-              <label for="email" class="form-label">Email address</label>
-              <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
-              <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-            </div>
-            <div class="mb-3">
-              <label for="name" class="form-label">Name</label>
-              <input type="text" class="form-control" id="name">
-            </div>
-            <div class="mb-3 form-check">
-              <input type="checkbox" class="form-check-input" id="checked">
-              <label class="form-check-label" for="checked">Send Me Updates</label>
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-          </form>
-      </section>
+   <section class="container mt-5">
+     <h1 class="text-center">Netlify Forms</h1>
+     <form>
+       <div class="mb-3">
+         <label for="email" class="form-label">Email address</label>
+         <input
+           type="email"
+           class="form-control"
+           id="email"
+           aria-describedby="emailHelp"
+         />
+         <div id="emailHelp" class="form-text">
+           We'll never share your email with anyone else.
+         </div>
+       </div>
+       <div class="mb-3">
+         <label for="name" class="form-label">Name</label>
+         <input type="text" class="form-control" id="name" />
+       </div>
+       <div class="mb-3 form-check">
+         <input type="checkbox" class="form-check-input" id="checked" />
+         <label class="form-check-label" for="checked">Send Me Updates</label>
+       </div>
+       <button type="submit" class="btn btn-primary">Submit</button>
+     </form>
+   </section>
    ```
 
    The code above renders a normal form requiring input (email, name) from a user.
@@ -53,17 +60,20 @@ To use netlify forms, your static site must be hosted on Netlify. I'll take you 
    ![form](../static-files/forms.png)
 
 2. #### Adding to GitHub
+
    For us to be able to get our forms functional, it should be hosted on Netlify. Netlify hosts sites directly from GitHub Repos, and I will leverage that:
 
    - Go to: https://github.com/new
    - Create a new repo, give it a name of your choice.
-   ![image-description](../static-files/form-gh.png)
+     ![image-description](../static-files/form-gh.png)
    - Open your project folder from the terminal/use inbuilt terminal on vscode, then initialize git
+
    ```shell
    git init
    ```
 
    After that, commit your code:
+
    ```shell
    git add .
    git commit -m "initialized form"
@@ -76,40 +86,42 @@ To use netlify forms, your static site must be hosted on Netlify. I'll take you 
    Once you have uploaded the code to github, you should be set to deploy it on Neltify.
 
 3. #### Deploy On Netlify
+
    Head over app.netlify.com and add new site using GitHub, be sure to select the current repo that we working on:
 
    The following is a pictorial step by step using screenshots from my account:
 
-   >add site
-   ![step1](../static-files/forms-1.png)
+   > add site
+   > ![step1](../static-files/forms-1.png)
 
-   >select github from continous deployment
-   ![step1](../static-files/forms-2.png)
+   > select github from continous deployment
+   > ![step1](../static-files/forms-2.png)
 
-   >choose the repo
-   ![step1](../static-files/forms-3.png)
+   > choose the repo
+   > ![step1](../static-files/forms-3.png)
 
-   >deploy the site
-   ![step1](../static-files/forms-4.png)
+   > deploy the site
+   > ![step1](../static-files/forms-4.png)
 
-   >successfully deployed
-   ![step1](../static-files/forms-5.png)
+   > successfully deployed
+   > ![step1](../static-files/forms-5.png)
 
-   >web preview
-   ![step1](../static-files/forms-6.png)
+   > web preview
+   > ![step1](../static-files/forms-6.png)
 
 4. #### Configuring Netlify Forms
+
    To do that, you simply add an attribute to the openning `<form>` tag.
    There are two ways of doing it:
 
    ```html
-   <form name="contact" netlify>
+   <form name="contact" netlify></form>
    ```
 
    OR
 
    ```html
-   <form method="post" name="contact" data-netlify="true">
+   <form method="post" name="contact" data-netlify="true"></form>
    ```
 
    Either way, the setup will work, I will use the first one, add it to your form.
@@ -119,30 +131,39 @@ To use netlify forms, your static site must be hosted on Netlify. I'll take you 
    Your updated form should be:
 
    ```html
-           <form name="contact" data-netlify="true">
-            <div class="mb-3">
-              <label for="email" class="form-label">Email address</label>
-              <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
-              <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-            </div>
-            <div class="mb-3">
-              <label for="name" class="form-label">Name</label>
-              <input type="text" class="form-control" id="name">
-            </div>
-            <div class="mb-3 form-check">
-              <input type="checkbox" class="form-check-input" id="checked">
-              <label class="form-check-label" for="checked">Send Me Updates</label>
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-          </form>
+   <form name="contact" data-netlify="true">
+     <div class="mb-3">
+       <label for="email" class="form-label">Email address</label>
+       <input
+         type="email"
+         class="form-control"
+         id="email"
+         aria-describedby="emailHelp"
+       />
+       <div id="emailHelp" class="form-text">
+         We'll never share your email with anyone else.
+       </div>
+     </div>
+     <div class="mb-3">
+       <label for="name" class="form-label">Name</label>
+       <input type="text" class="form-control" id="name" />
+     </div>
+     <div class="mb-3 form-check">
+       <input type="checkbox" class="form-check-input" id="checked" />
+       <label class="form-check-label" for="checked">Send Me Updates</label>
+     </div>
+     <button type="submit" class="btn btn-primary">Submit</button>
+   </form>
    ```
 
-  Now go to the site and fill the form, after submitting the form, you get a response page:
+Now go to the site and fill the form, after submitting the form, you get a response page:
 
-  ![form-response](../static-files/form-response.png)
+![form-response](../static-files/form-response.png)
 
-  Head over to the netlify admin site under forms:
+Head over to the netlify admin site under forms:
 
-  ![form-view](../static-files/form-view.png)
+![form-view](../static-files/form-view.png)
 
-  You'll see the form name.
+You'll see the form name.
+
+Just like that, you've added form functionality to your static site.
