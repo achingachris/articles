@@ -2,7 +2,7 @@
 
 <span class="s"></span>
 
-# DevC Nairobi: Never Not a Community
+# DevC Nairobi: Never, Not a Community
 
 
 <noscript><img alt="Image for post" class="t u v gv aj" src="https://miro.medium.com/max/6800/1*QOFP48H5qDtEDfHbvs4NgA.jpeg" width="3400" height="5100" srcSet="https://miro.medium.com/max/552/1*QOFP48H5qDtEDfHbvs4NgA.jpeg 276w, https://miro.medium.com/max/1104/1*QOFP48H5qDtEDfHbvs4NgA.jpeg 552w, https://miro.medium.com/max/1280/1*QOFP48H5qDtEDfHbvs4NgA.jpeg 640w, https://miro.medium.com/max/1400/1*QOFP48H5qDtEDfHbvs4NgA.jpeg 700w" sizes="700px"/></noscript>
