@@ -1,6 +1,6 @@
 ## Make You Forms Function With Netlify Forms
 
-It's normal to have a back-end on your website for your forms to be functional. Say no More!.  
+It's normal to have a back-end on your website for your forms to be functional. Say no More!
 
  [Netlify](https://www.netlify.com/)  offers hosting to static websites and serverless technologies, and it comes with super great feature including form handling, yes without a back-end.
 
@@ -46,7 +46,7 @@ We have a simple forms that takes in few inputs from a user. Now that we have th
 
 ## Netlify Forms
 
-To start using forms, you only need to a few attributes to your <form> tag.
+To start using forms, you only need to add a few attributes to your <form> tag.
 You can either use `netlify` or `data-netlify="true"`
 
 ```html
@@ -59,7 +59,7 @@ You can either use `netlify` or `data-netlify="true"`
 
 Use any attribute that makes you feel comfortable. Just like that, you have a functional form on your static site, for real!
 
-To test your form, go the url provided by netlify and submit and entry
+To test your form, go the URL provided by netlify and submit and entry
 
 
 ![form-submitted.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1607168091527/PHIFtnmcI.png)
@@ -69,7 +69,7 @@ To view your submissions, head over to Netlify dashboard under the Forms tab.
 
 ![dash.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1607168264276/a-wl1WVyI.png)
 
-Click on the name of the form to view the submission. Just like you are done.
+Click on the name of the form to view the submission. 
 
 ## Adding a Customized response page
 
