@@ -2,7 +2,7 @@
 
 It's normal to have a back-end on your website for your forms to be functional. Say no More!
 
- [Netlify](https://www.netlify.com/)  offers hosting to static websites and serverless technologies, and it comes with super great feature including form handling, yes without a back-end.
+ [Netlify](https://www.netlify.com/)  offers hosting to static websites and serverless technologies, and it comes with super great features including form handling without a back-end.
 
 Let's build a form with Netlify:
 
@@ -13,7 +13,7 @@ What you will need:
 
 First off let's start with a simple html form:
 
-Create a new html file and paste in the form below:
+Create a new html file and paste the snippet below:
 
 
 ```html
@@ -42,11 +42,11 @@ Create a new html file and paste in the form below:
 ``` 
 [The Complete Html File](https://gist.github.com/sryderdev/01cdd80f79bc9f7c9bbfc6f8f9d8226c)
 
-We have a simple forms that takes in few inputs from a user. Now that we have that, let's deploy the site from Netlify. (Add the file to your new GitHub Repository and deploy form netlify by linking the repo)
+We have a simple form that takes in few input from a user., so let's deploy the site from Netlify. (Add the file to your new GitHub Repository and deploy form netlify by linking the repo)
 
 ## Netlify Forms
 
-To start using forms, you only need to add a few attributes to your <form> tag.
+To start using Netlify forms, you only need to add a few attributes to your <form> tag.
 You can either use `netlify` or `data-netlify="true"`
 
 ```html
