@@ -1,4 +1,4 @@
-## GitHub's New Appearance Setting: Dark Theme
+## GitHub's Dark Theme
 
 It's about time, my favorite website has now a **Dark Theme**.
 
