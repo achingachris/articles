@@ -1,4 +1,4 @@
-## Make You Forms Function With Netlify Forms
+## Using Netlify Forms
 
 It's normal to have a back-end on your website for your forms to be functional. Say no More!
 
