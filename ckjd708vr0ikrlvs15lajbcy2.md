@@ -1,5 +1,6 @@
 ## 21 In a Glimpse
 
+ [https://linktr.ee/chrisdev](https://linktr.ee/chrisdev) 
 
 > 
 Well, I started writing an article, a really long one so I had to break it down then post the whole piece (ironic tho) later once I am done.
@@ -68,3 +69,4 @@ Mercurial is also a great one but I have never used it professionally with GitHu
 
 
 That sums up a basic developer environment and tools I do recommend.
+
