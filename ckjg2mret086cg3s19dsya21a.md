@@ -93,10 +93,7 @@ Learn JavaScript, React, Node.js, and Socket.io by creating an online multiplaye
 [demo](https://stack-chess.netlify.app/)
 
 
-Well, that's pretty much it. You can find the official announcement on submissions:
-
-
-%[https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/]
+[Well, that's pretty much it. You can find the official announcement on submissions](https://developers.facebook.com/blog/post/2020/11/18/2020-developer-circles-community-challenge-regional-winners-announced/)
 
 
 
