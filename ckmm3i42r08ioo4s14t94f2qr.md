@@ -1,5 +1,8 @@
 ## How I  made my first website using an API 😎
 
+
+![Screenshot from 2021-03-23 14-38-30.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1616509550608/pizpKvBm1.png)
+
 A year ago, I was struggling with using APIs to creating a simple website. After some tutorials online I made a simple website that displays the statistics for covid-19. It is not a fancy or unique site, but it did its purpose, TEACH.
 
 ## Which API did I use?
