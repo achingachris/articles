@@ -551,7 +551,7 @@ The next article will be on how to set up static files to add styling and functi
 
 For referral, the repo can be found in:
 
-https://github.com/sryderdev/django-setup/tree/starting-a-django-project
+https://github.com/ChrisAchinga/django-demo/tree/starting-django-project
 
 Reach out via [tWittEr](https://twitter.com/achinga_chris)
 Peace.
