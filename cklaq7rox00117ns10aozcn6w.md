@@ -459,7 +459,8 @@ from django.urls import path, include
 Ensure the server is running and then head over to http://localhost:8000/hello/ on your browser.
 
 
-![djangoweb.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1613229991414/N71NVR8O2.png)
+
+![hello.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1618814494539/-EQ6m1DFw.png)
 
 There it is, you have just set up a Django project. This just the beginning of a wonderful journey.
 
@@ -554,4 +555,5 @@ https://github.com/sryderdev/django-setup/tree/starting-a-django-project
 
 Reach out via [tWittEr](https://twitter.com/achinga_chris)
 Peace.
+
 
