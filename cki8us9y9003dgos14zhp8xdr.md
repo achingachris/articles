@@ -1,4 +1,4 @@
-## Git and GitHub SSL Configuration
+## Git and GitHub SSH Configuration
 
 ## Installing git
 
