@@ -6,7 +6,7 @@ I will be using one of my React projects from GitHub:
 
 %[https://github.com/ChrisAchinga/myRepos]
 
->A programmer's learning tool is by practicing     --I said that.
+>A programmer's learning tool is by practicing     --I said that...
 
 Let's Get Started:
 
