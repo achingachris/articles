@@ -6,7 +6,7 @@
 
 # Demo and Source Code
 
-https://github.com/ChrisAchinga/hashnode-api
+https://github.com/achingachris/hashnode-api
 
 https://hashnode-api-self.vercel.app/
 
@@ -140,7 +140,7 @@ Test the application:
 npm run dev
 ```
 
-Open your browser and go to: http://localhost:3000/
+Open your browser and go to http://localhost:3000/
 
 ![Next Home Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1623748670544/dNU8rf_Oh.png)
 
