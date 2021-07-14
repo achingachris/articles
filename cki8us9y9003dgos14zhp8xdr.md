@@ -52,5 +52,3 @@ Copy the key displayed to your clipboard.
 Go to your GitHub profile and navigate to settings: https://github.com/settings/profile
 On the left side, panel click on SSH and GPG keys, then click on the top green button “New SSH” and paste the key there.
 Voila! You are good to go
-
-[My Profile](https://chrisdev.netlify.app/)
