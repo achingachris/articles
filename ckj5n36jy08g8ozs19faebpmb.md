@@ -1,7 +1,7 @@
 ## React & Bootstrap Starter Template
 
 
-%[https://chrisachinga.github.io/react-bootstrap-starter]
+%[https://react-bootstrap-temp.netlify.app/]
 
 
 I love using Bootstrap because it saves time when trying to make a site responsive. After learning to use react, I started working on using [bootstrap](https://getbootstrap.com/) with [react](https://reactjs.org/). It was tough at first, and after I got a hang of it, I quickly made a template that I'd reuse every time I want to use react and bootstrap altogether.
