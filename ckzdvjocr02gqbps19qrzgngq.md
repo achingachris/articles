@@ -62,6 +62,10 @@ Replace `password_here` with an empty space, since we don't have a password to t
 
 Replace `username_here` with `root`
 
+Refer to the code snippet below:
+
+%[https://gist.github.com/achingachris/fba7790934cd7a2248b42682a852d1f7]
+
 Alternatively you can add Database configurations to the `wp-config-sample.php` file. Locate where the database configurations are and edit as instructed below:
 
 ```php
