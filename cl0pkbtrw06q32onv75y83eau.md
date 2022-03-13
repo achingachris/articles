@@ -16,9 +16,9 @@ or the [desktop application](https://www.postman.com/downloads/) for testing you
 
 Postman can be used to test all API requests: `get/put/create/delete`
 
-If you are new to postman, I'd suggest you go through their Bootcamp: [https://web.postman.co/bootcamp](https://web.postman.co/bootcamp)
+If you are new to Postman, I'd suggest you go through their Bootcamp: [https://web.postman.co/bootcamp](https://web.postman.co/bootcamp)
 
-> I will be using the desktop application for the demos, they're no big differences from using the web version of postman.
+> I will be using the desktop application for the demos, they're no big differences from using the web version of Postman.
 
 # What this article covers:
 
