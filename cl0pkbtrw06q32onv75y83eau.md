@@ -1,11 +1,6 @@
 ## Using Postman Like a Pro!
 
----
-title: Using Postman Like a Pro!
-published: true
-date: 2021-06-04 11:02:06 UTC
-tags: 2Articles1Week,APIs,Testing
----
+
 ![Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1647193211388/2AE6poQJJ.png)
 
 
