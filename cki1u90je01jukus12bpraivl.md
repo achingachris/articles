@@ -4,7 +4,7 @@ GitHub offers more than just a host for your code. In this short tutorial, I wil
 
 I will be using one of my React projects from GitHub:
 
-%[https://github.com/ChrisAchinga/myRepos]
+%[https://github.com/achingachris/myRepos]
 
 >A programmer's learning tool is by practicing     --I said that...
 
@@ -33,13 +33,13 @@ http://{username}.github.io/{repo-name}
 Where {username} is your GitHub username, and {repo-name} is the name of the GitHub repository. Below is an example for my project:
 
 ```JSON
-"homepage": "http://ChrisAchinga.github.io/myRepos",
+"homepage": "http://achingachris.github.io/myRepos",
 ```
 
 ```JSON
 {
   "name": "myrepos",
-  "homepage": "http://ChrisAchinga.github.io/myRepos",
+  "homepage": "http://achingachris.github.io/myRepos",
   "version": "0.1.0",
   "private": true,
 }
@@ -95,9 +95,9 @@ Kudos your React app is ready for view... on  the URL:
 https://{github-user-name}.github.io/{repo-name}/
 ```
 
-https://chrisachinga.github.io/myRepos/
+https://achingachris.github.io/myRepos/
 
-[Deployment Preview](https://chrisachinga.github.io/myRepos/)
+[Deployment Preview](https://achingachris.github.io/myRepos/)
 
 ### Resources For GitHub Pages
 
