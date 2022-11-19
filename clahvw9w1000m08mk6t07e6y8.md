@@ -1,4 +1,4 @@
-# How to configure Bootstrap SC and JS into a NextJS Project
+# How to configure Bootstrap SCSS and JS into a NextJS Project
 
 Bootstrap is one of the simplest and most used CSS libraries. This article will guide you on configuring a NextJs project with Bootstrap SCSS and JS files.
 
