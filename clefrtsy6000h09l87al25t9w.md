@@ -220,4 +220,4 @@ Follow along with the [commit](https://github.com/achingachris/convert-html-to-n
 
 The article gives the most important yet basic procedure to use when converting an HTML template to Next.JS
 
-[https://github.com/achingachris/convert-html-to-nextjs](https://github.com/achingachris/convert-html-to-nextjs)
+%[https://github.com/achingachris/convert-html-to-nextjs]
