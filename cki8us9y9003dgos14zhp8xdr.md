@@ -1,4 +1,14 @@
-# Git and GitHub SSH Configuration
+---
+title: "Git and GitHub SSH Configuration"
+seoTitle: "Git and GitHub SSH Configuration"
+seoDescription: "Configure SSH to your GitHub using git for better experiences with GitHub and git"
+datePublished: Tue May 11 2021 18:54:58 GMT+0000 (Coordinated Universal Time)
+cuid: cki8us9y9003dgos14zhp8xdr
+slug: git-and-github-ssh-configuration
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1620759009258/7NZXO3nHW.png
+tags: github, git, ssh, 2articles1week
+
+---
 
 ## Installing git
 
@@ -45,8 +55,18 @@ cat < ~/.ssh/id_rsa.pub
 
 ![key.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1620758991329/Q3VOjCzPb.png align="left")
 
+**Note:**
+
+If you are using Windows PowerShell, use the command:
+
+```bash
+Get-Content "$env:USERPROFILE\.ssh\id_rsa.pub"
+```
+
 Copy the key displayed to your clipboard:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671370695216/gav79cUGz.png align="center")
 
-Go to your GitHub profile and navigate to settings, or better still use the link [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new). On the left side, panel, click on SSH and GPG keys, then click on the top green button “New SSH” and paste the key there. Voila! You are good to go
+Go to your GitHub profile and navigate to settings, or better still use the link [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new). On the left side, panel, click on SSH and GPG keys, then click on the top green button “New SSH” and paste the key there.
+
+Voila! You are good to go
