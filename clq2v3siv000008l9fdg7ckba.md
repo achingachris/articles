@@ -214,4 +214,14 @@ https://dadjokes-pwa.vercel.app/
 
 That’s it good people. By the way, there’s alot to learn in the PWA topic, I will drop some links below, just incase you are interested. Especially if you are curious on whether you can add a Progressive Web App to playstore 😎
 
-Pwafire documentation: https://docs.pwafire.org/ Adding a PWA on Google Playstore: https://developers.google.com/codelabs/pwa-in-play#0 Fugu API tracker: https://fugu-tracker.web.app/ Fugu APIs: https://developers.google.com/learn/pathways/fugu-apis Angular Service Workers: https://angular.dev/ecosystem/service-workers Explore PWA: https://web.dev/explore/progressive-web-apps
+Pwafire documentation: https://docs.pwafire.org/
+
+Adding a PWA on Google Playstore: https://developers.google.com/codelabs/pwa-in-play#0
+
+Fugu API tracker: https://fugu-tracker.web.app/
+
+Fugu APIs: https://developers.google.com/learn/pathways/fugu-apis
+
+Angular Service Workers: https://angular.dev/ecosystem/service-workers
+
+Explore PWA: https://web.dev/explore/progressive-web-apps
