@@ -1,4 +1,12 @@
-## State Management in React
+---
+title: "State Management in React"
+datePublished: Sat Jul 09 2022 19:16:03 GMT+0000 (Coordinated Universal Time)
+cuid: ckj2grw4k04m236s1frzr5zaf
+slug: state-management-in-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657393093567/Lf19dQLEn.png
+tags: reactjs, 2articles1week, codenewbies
+
+---
 
 A state is the current data passed in React components. State management in React enables you to dynamically update data in Components. 
 
