@@ -1,4 +1,13 @@
-## GitHub Students Developer Pack
+---
+title: "GitHub Students Developer Pack"
+seoTitle: "GitHub Students Developer Pack"
+datePublished: Thu Jun 17 2021 20:08:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckhwew9md08cnfps1a31cfsxf
+slug: github-students-developer-pack
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624011810919/-kZ0ahFA5.png
+tags: github, git, developer-tools, 2articles1week, beginners-learningtocode-100daysofcode
+
+---
 
 ![GitHub Education](https://cdn.hashnode.com/res/hashnode/image/upload/v1624009597944/dBooP2KKw.png)
 
