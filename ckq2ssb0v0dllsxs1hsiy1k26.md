@@ -1,4 +1,14 @@
-## C#(Dotnet) Setup in Ubuntu with VSCode
+---
+title: "C#(Dotnet) Setup in Ubuntu with VSCode"
+seoTitle: "C#(Dotnet) Setup in Ubuntu with VSCode"
+seoDescription: "Installation and Creating a simple C-Sharp Program in a Linux-based environment (Ubuntu)"
+datePublished: Fri Jun 18 2021 20:41:44 GMT+0000 (Coordinated Universal Time)
+cuid: ckq2ssb0v0dllsxs1hsiy1k26
+slug: cdotnet-setup-in-ubuntu-with-vscode
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624027333188/XJD9Qp1sN.png
+tags: ubuntu, csharp, vscode, setup, 2articles1week
+
+---
 
 C# is a general-purpose, multi-paradigm programming language encompassing static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
 
