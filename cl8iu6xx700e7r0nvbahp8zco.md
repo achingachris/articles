@@ -1,4 +1,12 @@
-## How to fetch and Add Data in React from an API
+---
+title: "How to fetch and Add Data in React from an API"
+datePublished: Mon Sep 26 2022 14:00:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl8iu6xx700e7r0nvbahp8zco
+slug: how-to-fetch-and-add-data-in-react-from-an-api
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/vZJdYl5JVXY/upload/v1664195223101/s1wKETJSW.jpeg
+tags: forms, reactjs, react-hooks
+
+---
 
 In my first week in phase 2 of Moringa School Software Engineering classes, I covered the basics of getting data from APIs and working with forms. The Code Challenge for the week had the following tasks:
 
