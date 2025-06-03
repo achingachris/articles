@@ -1,4 +1,12 @@
-# How To Create and Deploy a json-server
+---
+title: "How To Create and Deploy a json-server"
+datePublished: Tue Oct 18 2022 16:00:14 GMT+0000 (Coordinated Universal Time)
+cuid: cl9ee64pf000h09mh2jq71gna
+slug: how-to-create-and-deploy-a-json-server
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ot5kWZkH97s/upload/v1666103604086/9aL54Mk0o.jpeg
+tags: javascript, json, server
+
+---
 
 `json-server` is a tool for creating mock REST API fast! To get started, ensure you have the following requirements:
 
