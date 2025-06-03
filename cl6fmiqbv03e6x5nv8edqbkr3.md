@@ -1,4 +1,12 @@
-## Adding Forms To Static Websites Using FabForm
+---
+title: "Adding Forms To Static Websites Using FabForm"
+datePublished: Thu Aug 04 2022 22:42:38 GMT+0000 (Coordinated Universal Time)
+cuid: cl6fmiqbv03e6x5nv8edqbkr3
+slug: adding-forms-to-static-websites-using-fabform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1659652854474/xzSz-vwZm.png
+tags: forms, nextjs, jamstack, 2articles1week
+
+---
 
 Static websites are known for a minimum to zero functionalities. Initially, one has to write a lot of code to be able to collect data from users through forms. This post will guide you on how to add forms to a static website without creating a server-side application for your website.
 
