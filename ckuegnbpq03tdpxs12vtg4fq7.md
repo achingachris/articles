@@ -1,4 +1,12 @@
-## Reading Data From Files Using Python
+---
+title: "Reading Data From Files Using Python"
+datePublished: Tue Oct 05 2021 19:14:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckuegnbpq03tdpxs12vtg4fq7
+slug: reading-data-from-files-using-python
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633375792676/HEBwBDQW-.png
+tags: python, data-science, 2articles1week, hacktoberfest-1
+
+---
 
 
 > 
