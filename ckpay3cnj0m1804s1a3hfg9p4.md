@@ -1,4 +1,14 @@
-## How To Create A Layout Component: React
+---
+title: "How To Create A Layout Component: React"
+seoTitle: "Creating A Layout Component in React"
+seoDescription: "Step by Step Guide on creating a layout on a create-react-app Project"
+datePublished: Sun May 29 2022 14:14:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckpay3cnj0m1804s1a3hfg9p4
+slug: how-to-create-a-layout-component-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1622364544083/hMHEA-LQG.png
+tags: react-router, bootstrap, reactjs, components, 2articles1week
+
+---
 
 When creating a react application/website, most of the pages would be sharing the same content all over. For example the navigation bar and page footer. Instead of importing each component in every page to be rendered, it is much easier and faster to just create a layout component.
 
