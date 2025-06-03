@@ -1,4 +1,14 @@
-# Unlocking the Power of Headless CMS for Seamless Content Delivery
+---
+title: "Unlocking the Power of Headless CMS for Seamless Content Delivery"
+seoTitle: "Unlock the Benefits of Headless CMS for Seamless Content Delivery"
+seoDescription: "Unlock the full potential of your website's content delivery with Headless CMS. This innovative approach to content management separates the back-end system"
+datePublished: Wed Feb 01 2023 20:29:16 GMT+0000 (Coordinated Universal Time)
+cuid: cldm4gezd000209jlarql2ehw
+slug: unlocking-the-power-of-headless-cms-for-seamless-content-delivery
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675282628592/c8488317-860f-4ab1-af48-a889eb37e79b.png
+tags: cms, jamstack, headless-cms, strapi
+
+---
 
 A headless content management system (CMS) is a back-end-only content management system (CMS) built from the ground up as a content repository that makes content accessible via an API for display on any device. 
 
