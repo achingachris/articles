@@ -1,4 +1,12 @@
-## Quick Data Exploration - Python
+---
+title: "Quick Data Exploration - Python"
+datePublished: Sun Oct 10 2021 13:36:48 GMT+0000 (Coordinated Universal Time)
+cuid: ckul9sxpo053lrvs107060xhr
+slug: quick-data-exploration-python
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633494038264/eaSLt__Z0.png
+tags: python, data-science, 2articles1week, hacktoberfest-1
+
+---
 
 
 > 
