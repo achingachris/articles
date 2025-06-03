@@ -1,4 +1,12 @@
-# My 2022: Setting my Pace!
+---
+title: "My 2022: Setting my Pace!"
+datePublished: Thu Jan 05 2023 22:16:59 GMT+0000 (Coordinated Universal Time)
+cuid: clcjnexh8000108mpel2zgzh0
+slug: my-2022-setting-my-pace
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672956100956/4cf784ab-821f-4b0a-9e11-c4caaed758b4.png
+tags: career, devretro2022
+
+---
 
 2022 was a great year for my career and personal growth. I had my most "first times," and memorable moments were made. Here is a sneak peek into my 2022:
 
