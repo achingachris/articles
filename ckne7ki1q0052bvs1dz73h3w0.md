@@ -1,4 +1,12 @@
-## My Developer Profile & Branding
+---
+title: "My Developer Profile & Branding"
+datePublished: Mon Apr 12 2021 06:21:55 GMT+0000 (Coordinated Universal Time)
+cuid: ckne7ki1q0052bvs1dz73h3w0
+slug: developer-profile-and-branding
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618195579893/3V_5_eDJo.png
+tags: portfolio, hashnodebootcamp
+
+---
 
 Your Brand is what people out here talk about you, so it's up to you to make it good or bad, or beneficial to your career.
 
