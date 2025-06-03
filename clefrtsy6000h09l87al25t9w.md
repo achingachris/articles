@@ -1,4 +1,12 @@
-# How To Convert HTML templates to NextJS (v13)
+---
+title: "How To Convert HTML templates to NextJS (v13)"
+datePublished: Wed Feb 22 2023 14:28:51 GMT+0000 (Coordinated Universal Time)
+cuid: clefrtsy6000h09l87al25t9w
+slug: how-to-convert-html-templates-to-nextjs-v13
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677073822121/2f2bd464-6087-4b60-97e6-9d7cf17ac807.png
+tags: reactjs, html5, template, nextjs
+
+---
 
 Now that Next.JS is an awesome frontend tool. How can we get HTML/CSS/JS Templates to work perfectly in a Next.JS project? This article will take you through the steps.
 
