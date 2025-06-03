@@ -1,4 +1,14 @@
-## Deploying NextJS on Netlify - Starter Template
+---
+title: "Deploying NextJS on Netlify - Starter Template"
+seoTitle: "Deploying a NextJS site on Netlify"
+seoDescription: "Learn how to deploy your NextJS project from GitHub to Netlify. Get to start from already to use template"
+datePublished: Sat Feb 05 2022 19:00:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckza7c3es0x4cbbs1eaozg3yk
+slug: deploying-nextjs-on-netlify-starter-template
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644082199392/o4gOgeQFW.png
+tags: github, deployment, netlify, nextjs, netlifyhackathon
+
+---
 
 # Deploying NextJS to production
 
