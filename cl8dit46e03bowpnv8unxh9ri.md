@@ -1,4 +1,12 @@
-## Creating A Weather Search App in Vanilla JavaScript
+---
+title: "Creating A Weather Search App in Vanilla JavaScript"
+datePublished: Thu Sep 22 2022 20:42:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl8dit46e03bowpnv8unxh9ri
+slug: creating-a-weather-search-app-in-vanilla-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/TKlxhlRdj9A/upload/v1662704839483/FenhyLAWU.jpeg
+tags: javascript
+
+---
 
 This post covers creating a simple weather search application using plain JavaScript, HTML, and CSS.
 
