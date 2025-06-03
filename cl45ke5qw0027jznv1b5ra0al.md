@@ -1,4 +1,12 @@
-## How to set up Rust and NEAR for Blockchain/Web3 Development
+---
+title: "How to set up Rust and NEAR for Blockchain/Web3 Development"
+datePublished: Wed Jun 08 2022 12:25:59 GMT+0000 (Coordinated Universal Time)
+cuid: cl45ke5qw0027jznv1b5ra0al
+slug: how-to-set-up-rust-and-near-for-blockchainweb3-development
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654691126464/SaxrXg6XO.png
+tags: ubuntu, rust, blockchain, web3, 2articles1week
+
+---
 
 [Near](https://near.org/) protocol is a decentralized application platform that gives developer-friendly features to build and develop smart contracts. 
 
