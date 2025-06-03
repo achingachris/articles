@@ -1,4 +1,12 @@
-## Why I Took a Break From Writing.
+---
+title: "Why I Took a Break From Writing."
+datePublished: Tue Sep 14 2021 13:48:34 GMT+0000 (Coordinated Universal Time)
+cuid: cktk4rxfb03nko8s11xngau89
+slug: why-i-took-a-break-from-writing
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631626143000/-FC9KmgZl.png
+tags: developer, 2articles1week, mentalhealth-1
+
+---
 
 
 > 
