@@ -1,4 +1,14 @@
-## Using Hashnode API in a NextJS App
+---
+title: "Using Hashnode API in a NextJS App"
+seoTitle: "Using Hashnode API in a NextJS App"
+seoDescription: "How To Display your Hashnode Posts on a NextJS website, and using graphQL in fetching data"
+datePublished: Wed Jun 16 2021 09:03:18 GMT+0000 (Coordinated Universal Time)
+cuid: ckpz8yerg00estbs1apit218q
+slug: using-hashnode-api-in-a-nextjs-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623745178266/LGEiKbsO_.png
+tags: apis, hashnode, nextjs, 2articles1week
+
+---
 
 @[Hashnode](@hashnode) is one of the first places to go to for tutorials, developer articles, and news. It is without a doubt that using its API is the coolest thing one can ever do.
 
