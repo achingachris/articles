@@ -1,4 +1,14 @@
-## GitHub REST API
+---
+title: "GitHub REST API"
+seoTitle: "GitHub Users REST API"
+seoDescription: "Using the GitHub REST API to display your repos"
+datePublished: Thu Jul 15 2021 10:45:25 GMT+0000 (Coordinated Universal Time)
+cuid: ckr4sdfft00ht2rs1a7mi9rej
+slug: github-rest-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626345817347/dUnvzekjI.png
+tags: github, apis, rest-api, 2articles1week, 7daystreak
+
+---
 
 Most of us use GitHub services frequently if not on a daily basis. 
 
