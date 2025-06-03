@@ -1,4 +1,12 @@
-## How To Create a Payment Form on WordPress using Flutterwave
+---
+title: "How To Create a Payment Form on WordPress using Flutterwave"
+datePublished: Sun Feb 13 2022 19:43:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckzlodkv00159rks13hirg0bp
+slug: how-to-create-a-payment-form-on-wordpress-using-flutterwave
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644297911443/H5zi1EK2y.png
+tags: wordpress-plugins, wordpress, 2articles1week
+
+---
 
 Making payments online should be seamless and less frustrating. I conquered my fear and tested out Flutterwave and I was really impressed.  Here is how to create a simple payment form using Flutterwave and WordPress.
 
