@@ -1,4 +1,13 @@
-# Developer Communities In Kenya
+---
+title: "Developer Communities In Kenya"
+seoDescription: "Tech Communities in Kenya"
+datePublished: Thu Jan 12 2023 19:10:33 GMT+0000 (Coordinated Universal Time)
+cuid: clctgu5hd000b08l4d3u65mjo
+slug: developer-communities-in-kenya
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673550552758/d5a9e99a-a662-40b2-a52a-8281d1fb6dda.png
+tags: community, 2articles1week, technical-writing-1
+
+---
 
 2022 has seen growth in Developer communities and Tech events in Kenya. There are now many communities that developers can benefit from just by being a part of. This article will list some of them and how to join the communities.
 
