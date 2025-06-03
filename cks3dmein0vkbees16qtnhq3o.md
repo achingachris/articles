@@ -1,4 +1,12 @@
-## Using Bootstrap in NextJS (No packages needed!)
+---
+title: "Using Bootstrap in NextJS (No packages needed!)"
+datePublished: Sun Aug 08 2021 15:44:26 GMT+0000 (Coordinated Universal Time)
+cuid: cks3dmein0vkbees16qtnhq3o
+slug: using-bootstrap-in-nextjs-no-packages-needed
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1628437355003/L08vgFLE4.png
+tags: bootstrap, javascript, reactjs, nextjs, 2articles1week
+
+---
 
 Usually, you'll need to install third-party packages like  [react-bootstrap](https://react-bootstrap.github.io/) or  [reactstrap](https://reactstrap.github.io/) for you to fully get the benefits of  [Bootstrap components](https://getbootstrap.com/docs/5.1/components/accordion/).
 
