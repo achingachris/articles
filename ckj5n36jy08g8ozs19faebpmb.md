@@ -1,4 +1,13 @@
-## React & Bootstrap Starter Template
+---
+title: "React & Bootstrap Starter Template"
+datePublished: Sat Dec 26 2020 11:47:36 GMT+0000 (Coordinated Universal Time)
+cuid: ckj5n36jy08g8ozs19faebpmb
+slug: react-and-bootstrap-starter-template
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608981427966/as3vezSja.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1608981414618/GhUfHxb1Z.png
+tags: bootstrap, opensource, documentation, reactjs, template
+
+---
 
 
 %[https://react-bootstrap-temp.netlify.app/]
