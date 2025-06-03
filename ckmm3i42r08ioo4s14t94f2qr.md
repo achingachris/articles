@@ -1,4 +1,12 @@
-## How I  made my first website using an API 😎
+---
+title: "How I  made my first website using an API 😎"
+datePublished: Tue Mar 23 2021 14:10:33 GMT+0000 (Coordinated Universal Time)
+cuid: ckmm3i42r08ioo4s14t94f2qr
+slug: how-i-made-my-first-website-using-an-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1616507200759/754hkQbO6.png
+tags: apis, project-management, 2articles1week
+
+---
 
 
 ![Screenshot from 2021-03-23 14-38-30.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1616509550608/pizpKvBm1.png)
