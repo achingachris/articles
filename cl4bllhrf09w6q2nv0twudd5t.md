@@ -1,4 +1,12 @@
-## How to add Cloudinary to Strapi CMS for Image/Video uploads
+---
+title: "How to add Cloudinary to Strapi CMS for Image/Video uploads"
+datePublished: Sun Jun 12 2022 17:46:18 GMT+0000 (Coordinated Universal Time)
+cuid: cl4bllhrf09w6q2nv0twudd5t
+slug: how-to-add-cloudinary-to-strapi-cms-for-imagevideo-uploads
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655055933238/A6XQtW5Ku.png
+tags: cloudinary, headless-cms, strapi
+
+---
 
 [Strapi](https://strapi.io/) is an open-source Headless CMS. 
 
