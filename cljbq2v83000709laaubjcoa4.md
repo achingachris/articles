@@ -4,7 +4,7 @@ datePublished: Sun Jun 25 2023 17:47:22 GMT+0000 (Coordinated Universal Time)
 cuid: cljbq2v83000709laaubjcoa4
 slug: into-pwa-creating-an-installable-nextjs-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687713531821/81b2d862-c780-4af4-9d7a-8b754f42b9bf.png
-tags: pwa, nextjs
+tags: javascript, pwa, nextjs
 
 ---
 
