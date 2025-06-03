@@ -1,4 +1,12 @@
-## GitHub's Dark Theme
+---
+title: "GitHub's Dark Theme"
+datePublished: Wed Dec 09 2020 18:07:04 GMT+0000 (Coordinated Universal Time)
+cuid: ckihq5p64030h6zs1bz1n7clh
+slug: githubs-dark-theme
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607537353913/LqEUZXpOo.png
+tags: github, programming
+
+---
 
 It's about time, my favorite website has now a **Dark Theme**.
 
