@@ -1,4 +1,14 @@
-## Deploying A React app on GitHub Pages
+---
+title: "Deploying A React app on GitHub Pages"
+seoTitle: "Deploy a react app using GitHub pages"
+seoDescription: "Using GitHub Pages to deploy a static react app for free, straight from your GitHub repo"
+datePublished: Tue May 25 2021 14:47:54 GMT+0000 (Coordinated Universal Time)
+cuid: cki1u90je01jukus12bpraivl
+slug: github-pages-with-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621953722862/AM7JSCoIY.png
+tags: github, deployment, reactjs
+
+---
 
 GitHub offers more than just a host for your code. In this short tutorial, I will walk you through deploying a static react app/project on  [GitHub Pages](https://pages.github.com/).
 
