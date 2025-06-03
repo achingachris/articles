@@ -1,4 +1,12 @@
-## Starting a Django Project
+---
+title: "Starting a Django Project"
+datePublished: Thu Feb 18 2021 10:33:25 GMT+0000 (Coordinated Universal Time)
+cuid: cklaq7rox00117ns10aozcn6w
+slug: starting-a-django-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1613640928112/2LQRUP48S.png
+tags: fullstack, python, django, python-projects
+
+---
 
 
 ![django.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1613229625968/Ji8qrMBF2.jpeg)
