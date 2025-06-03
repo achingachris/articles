@@ -1,4 +1,12 @@
-# Tech Communities in Kenya
+---
+title: "Tech Communities in Kenya"
+datePublished: Mon Mar 22 2021 12:01:25 GMT+0000 (Coordinated Universal Time)
+cuid: ckmkjg7e9000nyws1asfr8dkr
+slug: tech-communities-in-kenya
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1615465522749/alEUphxie.png
+tags: community, 2articles1week
+
+---
 
 An Updated article (2023)
 
