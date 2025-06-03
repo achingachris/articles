@@ -1,4 +1,12 @@
-## Dev Tech Question: What Are These Things?
+---
+title: "Dev Tech Question: What Are These Things?"
+datePublished: Thu Mar 18 2021 14:59:50 GMT+0000 (Coordinated Universal Time)
+cuid: ckmf0e9x800mp8is1fm0i5y7v
+slug: dev-tech-question-what-are-these-things
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1616080188605/SCxGacudB.jpeg
+tags: algorithms, dom, cors
+
+---
 
 
 >Every Thursday, I post a question for The Dev Tech Question. This article is for the post on [`Thu March 18, 2021`](https://www.facebook.com/groups/DevCMombasa/permalink/1377257025978943/).
