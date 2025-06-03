@@ -1,4 +1,12 @@
-## Using JavaScript in JupyterLab
+---
+title: "Using JavaScript in JupyterLab"
+datePublished: Sat Aug 20 2022 17:04:44 GMT+0000 (Coordinated Universal Time)
+cuid: cl725hthh03s0p0nv2rhagodp
+slug: using-javascript-in-jupyterlab
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661009097663/b51wR6_VP.png
+tags: javascript, jupyter, 2articles1week
+
+---
 
 > **TL;DR**
 > This post will take you through installing JupyterLabs and how to add a NodeJS kernel to it in Ubuntu.
